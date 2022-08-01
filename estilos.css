@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  width: 100%;
+  height: auto;
+}
+
+.navbar {
+  background-color: black;
+  font-family: "Permanent Marker", cursive;
+  font-size: 20px;
+  color: black;
+  padding: 30px;
+}
+.navbar span {
+  color: red;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.jumbotron {
+  width: 100%;
+  height: auto;
+  font-family: "Permanent Marker", cursive;
+  background-color: red;
+  color: white;
+  font-size: 25px;
+  margin: 0;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.visual {
+  font-family: "Permanent Marker", cursive;
+  font-size: 25px;
+  margin-left: 5px;
+  width: auto;
+  height: auto;
+}
+.visual a {
+  background-color: red;
+  color: black;
+  border: red;
+}
+.visual a button {
+  background-color: red;
+  color: black;
+  border: red;
+}
+
+/*# sourceMappingURL=estilos.css.map */
